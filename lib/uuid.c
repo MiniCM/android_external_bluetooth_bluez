@@ -29,7 +29,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <errno.h>
-
+#include "bluetooth.h"
 #include "uuid.h"
 
 #if __BYTE_ORDER == __BIG_ENDIAN
